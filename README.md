@@ -61,7 +61,3 @@ In Presentation Mode:
 On Mouse hover, you can see the text you have entered.
 
 ![Presentation mode](https://github.com/GainInsights/GIV_Tooltip/blob/master/Images/Presentation%20mode.jpg)
-
-**License**
-
-Copyrights owned by GainInsights Solution Private limited © 2017.
