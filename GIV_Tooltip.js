@@ -212,7 +212,7 @@ return {
 	var tooltipposition = layout.position;
 
 
-
+	console.log(tooltipfontsize);
 	var css = null;
 	if(tooltipfontstyle =="underline" || tooltipfontstyle=="line-through"){
 		css = "text-decoration";
@@ -222,6 +222,9 @@ return {
 
 	$("#tooltip2").css({'text-decoration':'none', 'font-style': 'none'});
 	$('#tooltip2').css(css, tooltipfontstyle);
+	$('#tooltip2').css('background-color',tooltipbackgroundcolor);
+	$('#tooltip2').css('color', tooltipfontcolor);
+	$('#tooltip2').css('font-size', tooltipfontsize + "px");
 
 
 
