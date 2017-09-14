@@ -32,7 +32,7 @@ This icon shall be used based on what type of information we wanted to show in t
 
 ![Icon](https://github.com/GainInsights/GIV_Tooltip/blob/master/Images/Icon.jpg)
 
-Fontsize:
+Font size:
 
 ![fontsize](https://github.com/GainInsights/GIV_Tooltip/blob/master/Images/Tooltip%20font%20size.jpg)
 
